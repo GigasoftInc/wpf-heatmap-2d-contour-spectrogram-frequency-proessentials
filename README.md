@@ -4,7 +4,7 @@ A ProEssentials v10 WPF .NET 8 demonstration of a full-featured heatmap,
 spectrogram, and 2D contour chart using PesgoWpf — the ProEssentials
 scientific graph object for continuous numeric X and Y axes.
 
-![ProEssentials Heatmap Spectrogram](https://gigasoft.com/wpf-chart/screenshots/screen139.png)
+![ProEssentials Heatmap Spectrogram](docs/wpf-heatmap-spectrogram-gigasoft-139.png)
 
 ➡️ [gigasoft.com/examples/139](https://gigasoft.com/examples/139)
 
